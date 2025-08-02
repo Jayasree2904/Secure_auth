@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS-specific files
+.DS_Store
+
+# VSCode & JetBrains IDE
+.vscode/
+.idea/
+
+# Flask cache and settings
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest cache
+.pytest_cache/
+
+# MySQL or SQLite database files (optional — remove if needed)
+*.sqlite3
+*.db
+
+# Compiled files and build folders
+build/
+dist/
+*.egg-info/
+
+# Render deployment secret files (optional — if you have them)
+*.env
+.env.*
+*.secret
+secrets.yaml
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/

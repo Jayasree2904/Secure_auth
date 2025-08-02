@@ -1,0 +1,9 @@
+Flask
+gunicorn
+mysql-connector-python
+speechbrain
+SpeechRecognition
+pydub
+torchaudio
+torch
+soundfile
